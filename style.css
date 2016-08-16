@@ -1,0 +1,7 @@
+body {
+    display: block;
+    background-image: url(http://static.tumblr.com/ergwfn1/oa6li7acv/calculon-scene.png), url(http://1.images.comedycentral.com/futurama_720_dramatic_pause_640x360.jpg?quality=0.91&width=580&height=326&crop=true), url(https://chessprogramming.wikispaces.com/file/view/Calculon.jpg/472441982/Calculon.jpg);
+    background-repeat: no-repeat, repeat-x, repeat;
+    color: palegoldenrod;
+    align-items: center;
+}
